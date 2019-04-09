@@ -1,1 +1,6 @@
 coda
+sn
+ggplot2
+igraph
+dbscan
+car

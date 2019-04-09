@@ -12,6 +12,7 @@ git-lfs
 wget
 zip
 g++
+gfortran
 autoconf
 automake
 cmake
@@ -28,3 +29,6 @@ r-base
 libblas-dev
 liblapack-dev
 pkg-config
+zlib1g
+libcurl4-openssl-dev
+zlib1g-dev
